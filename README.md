@@ -35,3 +35,4 @@ Retrig (clone) button for different fills
 Tap-tempo control
 
 The Mozzi library used in the script is an older version which isn't a big deal but you will need to update IDE with an older version of Mozzie (1.1.2).  You can easily do this in IDE but if you are unsure how to do this then check out my Instruacable I published.
+![image](https://github.com/user-attachments/assets/2f61441d-f15d-466a-be38-71519ba5a62b)
