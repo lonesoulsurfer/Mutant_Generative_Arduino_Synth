@@ -6,7 +6,7 @@
 
  Meebleeps awesome Mutant Synth in modular format
 
-First and foremost - I need to do a huge shoutout to MeeBleeps (https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) who designed this amazing synth. I've designed a PCB and front panel to fit modular synths or you could use it as a stand alone synth if you wanted to.  You can power it from 9 to 12 V's
+First and foremost - I need to do a huge shoutout to MeeBleeps (https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) who designed this amazing synth. I've designed a PCB and front panel to fit modular synths or you could use it as a stand alone synth if you wanted to.  You can power the synth used a voltage range from 9 to 12V's
 
 You can find a step by step guide on my Instructables page on how to build your own - https://www.instructables.com/Mutant-Generative-Arduino-Synth/
 
