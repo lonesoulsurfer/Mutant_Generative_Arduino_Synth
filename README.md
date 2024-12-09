@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/42a99a8d-a4a7-4d8c-a2f1-79578fdb59c8)
+
 # Mutant_Generative_Arduino_Synth
 
  Meebleeps awesome Mutant Synth in modular format
