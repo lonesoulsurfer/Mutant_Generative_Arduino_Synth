@@ -2,7 +2,7 @@
 
  Meebleeps awesome Mutant Synth in modular format
 
-First and foremost - I need to do a huge shoutout to MeeBleeps who designed this amazing synth. All I'm doing is creating a PCB and front panel of my own and solving a few issues that I encountered - the software and design is all MeeBleeps.
+First and foremost - I need to do a huge shoutout to MeeBleeps (https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) who designed this amazing synth. All I'm doing is creating a PCB and front panel of my own and solving a few issues that I encountered - the software and design is all MeeBleeps.
 
 So what is the Mutant Synth? Well it's a generative synth based around a Arduino Nano and a handful of other components and produces a rich soundscape of sounds.
 
