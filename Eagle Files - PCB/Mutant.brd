@@ -2257,8 +2257,6 @@
 <text x="65.532" y="1.778" size="1.016" layer="22" rot="MR0">read books - be a learing robot</text>
 <text x="18.034" y="49.3014" size="1.6764" layer="21" font="vector" ratio="28">MUTANT GENERATIVE SYNTH</text>
 <wire x1="17.399" y1="86.233" x2="49.911" y2="86.233" width="0.1524" layer="21"/>
-<dimension x1="19.0119" y1="69.977" x2="48.2981" y2="69.977" x3="33.655" y3="127" textsize="1.778" layer="20" dtype="horizontal"/>
-<dimension x1="17.399" y1="86.2203" x2="49.911" y2="81.9404" x3="33.655" y3="113.538" textsize="1.778" layer="20" dtype="horizontal"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
@@ -4425,6 +4423,7 @@ design rules under a new name.</description>
 <contactref element="C2" pad="-"/>
 <contactref element="9V" pad="1"/>
 <contactref element="C3" pad="-"/>
+<contactref element="C5" pad="-"/>
 </signal>
 <signal name="+5V">
 <contactref element="OSC_TUNE" pad="3"/>

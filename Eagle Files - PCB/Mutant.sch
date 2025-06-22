@@ -19352,6 +19352,11 @@ DIN A4, landscape with extra doc field</description>
 <pinref part="GND17" gate="1" pin="GND"/>
 <pinref part="C3" gate="G$1" pin="-"/>
 </segment>
+<segment>
+<pinref part="C5" gate="G$1" pin="-"/>
+<pinref part="GND15" gate="1" pin="GND"/>
+<wire x1="30.48" y1="71.12" x2="30.48" y2="71.628" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="+5V" class="0">
 <segment>
