@@ -10,7 +10,7 @@ First and foremost - I need to do a huge shoutout to MeeBleeps (https://github.c
 
 You can find a step by step guide on my Instructables page on how to build your own - https://www.instructables.com/Mutant-Generative-Arduino-Synth/
 
-I have also posted a video on my YouTube page - https://studio.youtube.com/video/L1Gzkz4_xpQ/edit
+I have also posted a video on my YouTube page - https://www.youtube.com/watch?v=L1Gzkz4_xpQ
 
 The main goal with building this module is to create my own 'simple to build' modular synth. I wanted to keep everything as easy as possble with each module built with the following aims:
 
