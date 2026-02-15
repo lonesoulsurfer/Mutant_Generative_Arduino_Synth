@@ -1,8 +1,10 @@
 
-
 # Mutant_Generative_Arduino_Synth
 
 ![image](https://github.com/user-attachments/assets/42a99a8d-a4a7-4d8c-a2f1-79578fdb59c8)
+
+UPDATE: I have updated the Mutant code so it can be loaded using the most recent Mozzi Library.  You can find the code in the 'Mutant_Updated' file.  It works perfectly and there is no changes to the sounds etc.
+
 
  Meebleeps awesome Mutant Synth in modular format
 
